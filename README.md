@@ -3,6 +3,8 @@
 
 Payloads 
 
+POST : http://localhost:8080/api/doctors
+
 /api/doctors
   {
     "name": "Kunal Singh",
@@ -12,6 +14,8 @@ Payloads
     "symptom": "Arthritis"
   }
 
+
+POST : http://localhost:8080/api/patients
   /api/patients
   {
     "name": "Rohit Sharma",
